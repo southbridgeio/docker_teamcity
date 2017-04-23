@@ -1,3 +1,3 @@
 FROM jetbrains/teamcity-server
 
-COPY /services/*.sh /services
+COPY /services/*.sh /services/
